@@ -3,7 +3,7 @@ import React from 'react';
 export default function NotFoundPage() {
   return (
     <main className=" w-full flex flex-col justify-center  ">
-      <div className=" 2xl:w-[50%] mx-auto w-full h-screen flex flex-col justify-center items-center border border-black ">
+      <div className=" 2xl:w-[50%] mx-auto w-full h-screen flex flex-col justify-center items-center ">
         <h1 className="text-4xl font-bold text-center mt-20">
           404 - Page Not Found
         </h1>
