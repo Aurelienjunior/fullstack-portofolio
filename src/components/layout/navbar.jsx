@@ -17,7 +17,7 @@ const NavigationBar = () => {
 
   return (
     <header className="sticky top-0 w-full flex justify-center items-center p-4 bg-white shadow-md z-50">
-      <div className="flex items-center border border-black justify-between w-full 2xl:w-[80%] px-4">
+      <div className="flex items-center justify-between w-full 2xl:w-[80%] px-4">
         {/* Logo */}
         <div className="text-xl font-bold text-[#101828]">
           <Link href="/" className="flex items-center space-x-2">
